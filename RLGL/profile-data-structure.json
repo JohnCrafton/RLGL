@@ -1,0 +1,13 @@
+{
+	"profile": {
+        "name": "Friend of @Tonweight",
+        "email": "tonweight@gmail.com",
+        "last-save": "2017-08-16T15:50:000.00",
+        "music": 0
+        "streaks": [[0,0], [0,0], [0,0], [[0,0], [0,0], [0,0], [0,0], [0,0], [0,0], [0,0], [0,0]]]
+	}
+}
+
+// Streaks:
+// [score[total, streak], hits[total, streak], misses[total, streak], colors[red[hit, miss], green[hit, miss], blue[hit, miss], yellow[hit, miss], orange[hit, miss], purple[hit, miss], white[hit, miss], black[hit, miss]]]
+// [[0,0], [[0,0], [0,0], [0,0], [0,0], [0,0], [0,0], [0,0], [0,0]]]
